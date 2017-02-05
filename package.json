@@ -1,6 +1,6 @@
 {
   "name": "mixin-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A truly working mixin utility for es6",
   "main": "src/",
   "scripts": {
