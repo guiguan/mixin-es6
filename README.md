@@ -1,6 +1,8 @@
 # Mixin for ES6
 *A truly working mixin utility for es6*
 
+[![npm](https://img.shields.io/npm/v/mixin-es6.svg)](https://www.npmjs.com/package/mixin-es6)
+
 ## Usage
 An optional `initializer` can be provided in each mixin for initialisation purpose
 
