@@ -5,6 +5,8 @@
 An optional `initializer` can be provided in each mixin for initialisation purpose
 
 ```js
+const mix = require('mixin-es6');
+
 class ColorMixin {
   initializer() {
     this._color = "white";
