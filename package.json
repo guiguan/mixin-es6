@@ -1,0 +1,30 @@
+{
+  "name": "mixin-es6",
+  "version": "1.0.0",
+  "description": "A truly working mixin utility for es6",
+  "main": "src/",
+  "scripts": {
+    "test": "npm run mocha",
+    "mocha": "mocha test/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiguan/mixin-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "mixin",
+    "mix",
+    "mixer"
+  ],
+  "author": "Guan Gui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guiguan/mixin-es6/issues"
+  },
+  "homepage": "https://github.com/guiguan/mixin-es6#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
